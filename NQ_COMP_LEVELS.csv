@@ -1,4 +1,5 @@
-Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,DIAMETER,DRAW_NOTE_PRICE_HORIZONTAL_LINE
+#automap RITHMIC,,,,,,,,,,,,,,
+Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,DIAMETER, DRAW_NOTE_PRICE_HORIZONTAL_LINE
 NQU5,23450,HVN,#000000,#FFFF00,left,8,TRUE
 NQU5,23370,HVN,#000000,#FFFF00,left,8,TRUE
 NQU5,23570,HVN,#000000,#FFFF00,left,8,TRUE
